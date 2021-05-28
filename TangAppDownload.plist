@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://github.com/pengzhenchuan/appDon/blob/master/madi.ipa</string>
+					<string>https://raw.githubusercontent.com/pengzhenchuan/appDon/master/madi.ipa</string>
 				</dict>
 			</array>
 			<key>metadata</key>
